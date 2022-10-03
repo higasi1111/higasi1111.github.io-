@@ -80,7 +80,7 @@
 }
 
 
-div {
+div.header {
 	background-image: url("img/don.jpg");
 	background-repeat: no-repeat;
 	background-size: 1500px;
@@ -95,6 +95,10 @@ h1 {
 
 h3 {
 	padding-top: 20px;
+}
+
+div.span {
+	background-color: #FCE2B1;
 }
 
 h5 {
