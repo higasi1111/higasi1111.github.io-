@@ -1,6 +1,10 @@
 div.span {
 	background-color: #CCFFFF;
 }
+.red{
+  height:600px;
+  background-color:#CCFFFF;
+}
 .header {
   display: flex;
   justify-content: space-between;
