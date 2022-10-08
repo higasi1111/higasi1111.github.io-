@@ -73,6 +73,8 @@
 
 .nav_list {
   list-style: none;
+  font-size: 30px;
+
 }
 
 #drawer_input:checked ~ .nav_content {
