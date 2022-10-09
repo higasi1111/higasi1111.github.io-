@@ -133,6 +133,13 @@ li {
 }
 	
 
+
+hr {
+  height: 0;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
 hr {
   height: 8px;
   background-image: repeating-linear-gradient(45deg, #ccc 0, #ccc 1px, transparent 0, transparent 50%);
