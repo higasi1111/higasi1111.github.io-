@@ -134,30 +134,36 @@ li {
 	
 
 .news-list .item:first-child a{
-  border-top: 1px solid #CCC;
+	border-top: 1px solid #CCC;
 }
+
 .news-list .item .date{
-  margin: 0;
-  min-width: 120px;
-  font-size: 16px;
-  color: #999;
-  padding: 0 20px 0 0;
+	margin: 0;
+	min-width: 120px;
+	font-size: 20px;
+	color: #999;
+	padding: 0 20px 0 0;
 }
+
 .news-list .item .title{
-  margin: 0;
-  width: 100%;
+	margin: 0;
+	width: 100%;
+	font-size: 40px;
 }
+
 .news-list .item a:hover .title{
-  color: #00F;
+	color: #00F;
 }
 
 @media screen and (max-width: 767px){
 .news-list .item a{
-  flex-wrap: wrap;
+	flex-wrap: wrap;
 }
+
 .news-list .item .date{
-  min-width: 100px;
+	min-width: 100px;
 }
+	
 .news-list .item .title{
-  margin-top: 10px;
+	margin-top: 10px;
 }
