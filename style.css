@@ -148,7 +148,7 @@ li {
 .news-list .item .title{
 	margin: 0;
 	width: 100%;
-
+	font-size: 40px;
 }
 
 .news-list .item a:hover .title{
